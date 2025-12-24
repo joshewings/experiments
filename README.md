@@ -13,7 +13,7 @@ My experiments
 2. **Start a Bash console** from the dashboard.
 3. **Clone this repository** into your home directory:
    ```bash
-   git clone https://github.com/your-username/experiments.git
+   git clone https://github.com/joshewings/experiments.git
    cd experiments
    ```
 4. **Create a virtual environment** (replace `3.11` with your preferred Python version if needed) and activate it:
